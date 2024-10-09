@@ -28,4 +28,4 @@ task list
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-Holla at yo boii @github/jorgeg365
+Holla at yo boii @Ageless1980
