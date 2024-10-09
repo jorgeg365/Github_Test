@@ -18,6 +18,6 @@ the file ![cartoon](File/OIP.jpg)
 ![bobby](https://images-na.ssl-images-amazon.com/images/I/81sgaRWRjvL._RI_.jpg)
 
 this is a list 
--one item
--two item
--three item
+- one item
+- two item
+- three item
